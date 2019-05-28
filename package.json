@@ -1,25 +1,25 @@
 {
-  "name": "vue-pickers",
-  "version": "1.1.5",
-  "description": "a picker componemt for vue2.0",
+  "name": "vue-pickers-t",
+  "version": "1.0.0",
+  "description": "a picker componemt for vue2.0 fork from https://github.com/naihe138/vue-picker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naihe138/vue-picker.git"
+    "url": "git+https://github.com/Bravo123/vue-picker"
   },
   "keywords": [
     "vue2.0",
     "vue-picker"
   ],
-  "author": "naice",
+  "author": "Bravo123",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/naihe138/vue-picker/issues"
   },
-  "homepage": "https://github.com/naihe138/vue-picker#readme",
+  "homepage": "https://github.com/Bravo123",
   "directories": {
     "lib": "lib"
   }
